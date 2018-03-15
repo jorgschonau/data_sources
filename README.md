@@ -3,11 +3,12 @@ A collection of useful data sources, I would like to keep this one rather short.
 
 [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
 
-## Government Data International
+## Government Data 
+### International
 [Data.gov](http://data.gov) - US government\
 [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 
-## Government Data EU
+### EU
 [EU Open Data](https://data.europa.eu/euodp/en/home)\
 [Data.gov.uk](http://data.gov.uk/)\
 [Open Data Bacrcelona](http://opendata-ajuntament.barcelona.cat/en) - Ajuntament de Barcelona's open data service
