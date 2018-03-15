@@ -30,9 +30,3 @@ A collection of useful data sources, I would like to keep this one rather short.
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
 [Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
 [Kaggle data sets](https://www.kaggle.com/datasets) 
-
-
-
-European Union Open Data Portal – The European Union Open Data Portal is the single point of access to a growing .
-
-Eurostat – Here you will find the key to European statistics. Feel free to search by theme, learning about the European economy, population, industry, trade, technology, and transport.
