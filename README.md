@@ -32,4 +32,4 @@ A collection of useful data sources, I would like to keep this one rather short.
 [Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
 [Kaggle data sets](https://www.kaggle.com/datasets)\
 [datahub.io](https://datahub.io)\
-[SRF Data](https://srfdata.github.io) - Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF).
+[SRF Data](https://srfdata.github.io) - Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF)
