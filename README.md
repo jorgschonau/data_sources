@@ -10,7 +10,7 @@ A collection of useful data sources, I would like to keep this one rather short.
 ## Government Data EU
 [EU Open Data](https://data.europa.eu/euodp/en/home)\
 [Data.gov.uk](http://data.gov.uk/)\
-[Open Data Bacrcelona] (http://opendata-ajuntament.barcelona.cat/en) - Ajuntament de Barcelona's open data service
+[Open Data Bacrcelona](http://opendata-ajuntament.barcelona.cat/en) - Ajuntament de Barcelona's open data service
 
 ## Various Global Data
 [OECD Data](https://data.oecd.org)\
