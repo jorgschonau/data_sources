@@ -1,5 +1,5 @@
 # Data Sources
-A collection of useful data sources, I would like to keep this one rather short. I'll also try to include more data sources contred on EU countries. There are already some fairly exhaustive lists of data source around anyway, this one for example:\[Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
+A collection of useful data sources, I would like to keep this one rather short. I'll also try to include more data sources contred on EU countries. There are already some fairly exhaustive lists of data source around anyway, this one for example:  [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Government Data 
 ### International
