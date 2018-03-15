@@ -4,7 +4,7 @@ A collection of useful data sources, I would like to keep this one rather short 
 ## Government Data 
 ### International - the classics
 [Data.gov](http://data.gov) - US government\
-[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook) - A classic reference resource
+[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook) - A classic reference resource\
 [OECD Data](https://data.oecd.org)
 
 ### EU
