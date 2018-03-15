@@ -30,9 +30,9 @@ A collection of useful data sources, I would like to keep this one rather short.
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
 [Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
 [Kaggle data sets](https://www.kaggle.com/datasets)\
-[datahub.io](https://datahub.io)\
+[datahub.io](https://datahub.io)
 
 ## Data Journalism (often with data sources and/or code/methodology)
 [SRF Data](https://srfdata.github.io) - Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF)
-[datenjournalismus.net](http://katalog.datenjournalismus.net)
+[datenjournalismus.net](http://katalog.datenjournalismus.net) - Collection of data journalism projects within german speaking countries (DE - A - CH)
 
