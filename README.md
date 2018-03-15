@@ -10,7 +10,7 @@ A collection of useful data sources, I would like to keep this one rather short.
 [EU Open Data](https://data.europa.eu/euodp/en/home) - Data from the institutions and other bodies of the EU\
 [Eurostat](http://ec.europa.eu/eurostat/data/database) – European statistics - economy, population, industry, trade, technology etc\
 [Statistisches Bundesamt](https://www.destatis.de) - The Federal Statistical Office (Germany)\
-[Data.gov.uk](http://data.gov.uk/) - UK Government project to make non-personal UK government data available\ 
+[Data.gov.uk](http://data.gov.uk/) - UK Government project to make non-personal UK government data available \ 
 [Open Data Bacrcelona](http://opendata-ajuntament.barcelona.cat/en) - Ajuntament de Barcelona's open data service
 
 ## Various Global Data
