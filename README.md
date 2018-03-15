@@ -28,7 +28,7 @@ A collection of useful data sources, I would like to keep this one rather short.
 
 ## Various other collections
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
-[Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
+[Data from 538.com](https://data.fivethirtyeight.com) - News site focussing on stats & data journalism (US centred)\
 [Kaggle data sets](https://www.kaggle.com/datasets)\
 [datahub.io](https://datahub.io)
 
