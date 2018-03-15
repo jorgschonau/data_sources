@@ -6,11 +6,13 @@ A collection of useful data sources, I would like to keep this one rather short.
 ## Government Data 
 ### International
 [Data.gov](http://data.gov) - US government\
-[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
+[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook) - A classic eference resource 
 
 ### EU
-[EU Open Data](https://data.europa.eu/euodp/en/home)\
-[Data.gov.uk](http://data.gov.uk/)\
+[EU Open Data](https://data.europa.eu/euodp/en/home) - Data from the institutions and other bodies of the EU\
+[Eurostat](http://ec.europa.eu/eurostat/data/database) – European statistics - economy, population, industry, trade, technology etc\
+[Statistisches Bundesamt](https://www.destatis.de) - The Federal Statistical Office (Germany)\
+[Data.gov.uk](http://data.gov.uk/) - UK Government project to make non-personal UK government data available\ 
 [Open Data Bacrcelona](http://opendata-ajuntament.barcelona.cat/en) - Ajuntament de Barcelona's open data service
 
 ## Various Global Data
@@ -29,3 +31,8 @@ A collection of useful data sources, I would like to keep this one rather short.
 [Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
 [Kaggle data sets](https://www.kaggle.com/datasets) 
 
+
+
+European Union Open Data Portal – The European Union Open Data Portal is the single point of access to a growing .
+
+Eurostat – Here you will find the key to European statistics. Feel free to search by theme, learning about the European economy, population, industry, trade, technology, and transport.
