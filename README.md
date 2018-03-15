@@ -22,9 +22,13 @@ A collection of useful data sources, I would like to keep this one rather short.
 [Google Finance](https://www.google.com/finance)
 
 ## Films, Music, Games, etc
-[IMDB](https://www.imdb.com/interfaces)
+[IMDB](https://www.imdb.com/interfaces)\
+[IGDB](https://www.igdb.com/advanced_search) - The IMDB for video games\
+[Boardgamegeek](https://boardgamegeek.com)
+
 
 ## Various other collections
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
 [Data from 538.com](https://data.fivethirtyeight.com) - News site foccussing on stats & data journalism, US centred\
 [Kaggle data sets](https://www.kaggle.com/datasets) 
+[datahub.io](https://datahub.io) 
