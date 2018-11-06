@@ -16,7 +16,7 @@ A collection of useful data sources, I am keeping this short and will try to inc
 
 ## Various Global Data
 [Gapminder](https://www.gapminder.org/data) – Internationally comparable data on development and economy\
-[Wikidata](https://www.wikidata.org)
+[Wikidata](https://www.wikidata.org) - Wikipedia's database with over 46 million data items\
 
 ## Finance
 [Google Finance](https://www.google.com/finance) - It's posssible to scrape all kinds of data there, such as historic share prices, currency rates, etc
