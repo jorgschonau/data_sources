@@ -19,7 +19,7 @@ A collection of useful data sources, I would like to keep this one rather short 
 [Wikidata](https://www.wikidata.org)
 
 ## Finance
-[Google Finance](https://www.google.com/finance)
+[Google Finance](https://www.google.com/finance) - It's posssible to scrap all kinds of data there, such as historic share prices, currency rates, etc\
 
 ## Films, Music, Games, etc
 [IMDB](https://www.imdb.com/interfaces)\
