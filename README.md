@@ -5,7 +5,7 @@ A collection of useful data sources, I would like to keep this one rather short 
 ### International - the classics
 [Data.gov](http://data.gov) - US government\
 [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook) - A classic reference resource\
-[OECD Data](https://data.oecd.org)
+[OECD Data](https://data.oecd.org) - Self eplanatory
 
 ### EU
 [EU Open Data](https://data.europa.eu/euodp/en/home) - Data from the institutions and other bodies of the EU\
@@ -22,7 +22,7 @@ A collection of useful data sources, I would like to keep this one rather short 
 [Google Finance](https://www.google.com/finance) - It's posssible to scrap all kinds of data there, such as historic share prices, currency rates, etc
 
 ## Films, Music, Games, etc
-[IMDB](https://www.imdb.com/interfaces)\
+[IMDB](https://www.imdb.com/interfaces) - Internet Movie Database\
 [IGDB](https://www.igdb.com/advanced_search) - The IMDB for video games\
 [Boardgamegeek](https://boardgamegeek.com)
 
