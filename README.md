@@ -1,5 +1,5 @@
 # Data Sources
-A collection of useful data sources, I am keeping this one short and will try t include mostly EU specific data sources. There are already some fairly exhaustive lists of data sources around anyway, this one for example:  [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
+A collection of useful data sources, I am keeping this one short and will try to include mostly EU specific data sources. There are already some fairly exhaustive lists of data sources around anyway, this one for example:  [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Government Data 
 ### International - the classics
@@ -24,13 +24,13 @@ A collection of useful data sources, I am keeping this one short and will try t 
 ## Films, Music, Games, etc
 [IMDB](https://www.imdb.com/interfaces) - Internet Movie Database\
 [IGDB](https://www.igdb.com/advanced_search) - The IMDB for video games\
-[Boardgamegeek](https://boardgamegeek.com)
+[Boardgamegeek](https://boardgamegeek.com) - The IMDB for board games ...
 
 ## Various other collections
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
 [Data from 538.com](https://data.fivethirtyeight.com) - News site focussing on stats & data journalism (US centred)\
 [Kaggle data sets](https://www.kaggle.com/datasets)\
-[datahub.io](https://datahub.io)
+[datahub.io](https://datahub.io) - As the name promises, tons of data sets 
 
 ## Data Journalism (often with data sources and/or code/methodology)
 [SRF Data](https://srfdata.github.io) - Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF)
