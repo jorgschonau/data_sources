@@ -24,7 +24,7 @@ A short collection of some useful data sources, I am keeping this one short and 
 ## Films, Music, Games, etc
 [IMDB](https://www.imdb.com/interfaces) - Internet Movie Database (IMDB)\
 [IGDB](https://www.igdb.com/advanced_search) - The IMDB for video games\
-[Boardgamegeek](https://boardgamegeek.com) - The IMDB for board games ...
+[Boardgamegeek](https://boardgamegeek.com) - The IMDB for board games ...\
 [Good Books](https://www.kaggle.com/zygmunt/goodbooks-10k) - And the MBD for books ...
 
 ## Various other collections
