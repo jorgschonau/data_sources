@@ -1,5 +1,5 @@
 # Data Sources
-A collection of useful data sources, I am keeping this one short and will try to include mostly EU specific data sources. There are already some fairly exhaustive lists of data sources around anyway, this one for example:  [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
+A short collection of some useful data sources, I am keeping this one short and will try to include mostly EU specific data sources. There are already some fairly exhaustive lists of data sources around anyway, this one for example:  [Topic-centric list of high-quality open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Government Data 
 ### International - the classics
@@ -22,9 +22,10 @@ A collection of useful data sources, I am keeping this one short and will try to
 [Google Finance](https://www.google.com/finance) - It's posssible to scrape all kinds of data there, such as historic share prices, currency rates, etc
 
 ## Films, Music, Games, etc
-[IMDB](https://www.imdb.com/interfaces) - Internet Movie Database\
+[IMDB](https://www.imdb.com/interfaces) - Internet Movie Database (IMDB)\
 [IGDB](https://www.igdb.com/advanced_search) - The IMDB for video games\
 [Boardgamegeek](https://boardgamegeek.com) - The IMDB for board games ...
+[Good Books](https://www.kaggle.com/zygmunt/goodbooks-10k) - And the MBD for books ...
 
 ## Various other collections
 [AWS Public Datasets](https://aws.amazon.com/de/datasets)\
